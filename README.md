@@ -1,4 +1,5 @@
 Jellybot Chess Engine ♟️
+
 Jellybot is a lightweight, efficient chess engine written in Python. It uses the python-chess library for game logic and implements several classic AI algorithms to provide a challenging experience for amateur players.
 
 🚀 Features
