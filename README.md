@@ -15,7 +15,7 @@ Piece-Square Tables (PST): Heuristic "heatmaps" that encourage the bot to contro
 
 🛠️ Installation
 Clone the repository:
-(This projet is made in the Pycharm
+(This projet is made in the Pycharm)
 1.Bash
 git clone https://github.com/heheglitch/jellybot.git
 cd jellybot
